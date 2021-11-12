@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<h2 style="font-style:Oswald;"> Hey there! I'm Satria Putra Ramadhan . <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="35"></h2>
+<h2><span style="font-family:Lobster;">Hey there! I'm Satria Putra Ramadhan .</span><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="35"></h2>
                 
           
 <h3> 👨🏻‍💻 About Me </h3>
@@ -75,10 +75,10 @@
 <h3> 🤝🏻 Connect with Me </h3>        
           
         
-&nbsp; <a href="https://www.instagram.com/satriaaprr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/instagram--v1.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/satriaaprr/" target="_blank"><img src="https://img.icons8.com/doodle/100/000000/instagram--v1.png" width="50" /></a>  
         
-<a href="https://www.linkedin.com/in/satriaputra-ramadhan-a95a331b4/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" width="50"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/satriaputra-ramadhan-a95a331b4/" target="_blank"><img src="https://img.icons8.com/doodle/100/000000/linkedin--v2.png" width="50"/></a>
         
-<a href="mailto:satriaaprr99@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/000000/gmail-new.png" width="50"/></a>
+&nbsp; <a href="mailto:satriaaprr99@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/100/000000/gmail-new.png" width="50"/></a>
         
      
